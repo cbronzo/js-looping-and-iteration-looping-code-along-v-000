@@ -11,6 +11,7 @@ return names;
 printBadges(names);
 
 function tailsNeverFails() {
+  let counter = 0
   while() {
     
   }
