@@ -11,9 +11,9 @@ return names;
 printBadges(names);
 
 function tailsNeverFails() {
-  let counter = 0
+  let counter = 0;
   while(Math.random() >= .5) {
-    counter++
+    counter++;
   }
-  return `You got ${counter} tails in a row!`
+  return `You got ${counter} tails in a row!`;
 }
