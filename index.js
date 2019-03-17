@@ -12,7 +12,7 @@ printBadges(names);
 
 function tailsNeverFails() {
   let counter = 0
-  while() {
+  while(Math.random() >= .5) {
     
   }
 }
